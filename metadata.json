@@ -1,0 +1,6 @@
+{
+  "name": "Helpline Rifat Sarkar",
+  "description": "Humanitarian assistance and social help platform coordinated by Rifat Sarkar with simple request submission, document verification, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
